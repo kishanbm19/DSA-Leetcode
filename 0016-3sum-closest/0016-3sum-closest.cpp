@@ -9,8 +9,8 @@ public:
         int l=i+1,r=nums.size()-1;
         while(l<r){
             sum=nums[i]+nums[l]+nums[r];
-            int  s=abs(sum-target);
-            if(mini>s){
+        
+            if(mini>abs(sum-target)){
                 mini=abs(sum-target);
                 ans=sum;
             }
