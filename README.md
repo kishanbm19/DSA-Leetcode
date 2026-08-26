@@ -6,6 +6,7 @@ Submitted codes are automatically pushed into this repository.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ Submitted codes are automatically pushed into this repository.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -35,4 +37,8 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
