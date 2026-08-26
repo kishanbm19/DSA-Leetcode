@@ -8,11 +8,13 @@ Submitted codes are automatically pushed into this repository.
 | ------- |
 | [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,6 +24,7 @@ Submitted codes are automatically pushed into this repository.
 | ------- |
 | [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
@@ -43,6 +46,7 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -59,4 +63,8 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
