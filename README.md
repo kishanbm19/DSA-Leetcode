@@ -14,6 +14,7 @@ Submitted codes are automatically pushed into this repository.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kishanbm19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
@@ -75,9 +76,14 @@ Submitted codes are automatically pushed into this repository.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kishanbm19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/kishanbm19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
