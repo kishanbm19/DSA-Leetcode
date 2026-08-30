@@ -12,6 +12,7 @@ Submitted codes are automatically pushed into this repository.
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ Submitted codes are automatically pushed into this repository.
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishanbm19/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
