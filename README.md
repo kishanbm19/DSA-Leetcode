@@ -104,4 +104,8 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kishanbm19/leetcode_solutions/tree/master/0046-permutations) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kishanbm19/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
