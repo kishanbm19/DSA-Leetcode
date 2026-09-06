@@ -20,6 +20,7 @@ Submitted codes are automatically pushed into this repository.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanbm19/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kishanbm19/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [3904-smallest-stable-index-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
