@@ -75,17 +75,20 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search
@@ -134,6 +137,7 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Prefix Sum
 |  |
