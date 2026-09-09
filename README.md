@@ -76,6 +76,7 @@ Submitted codes are automatically pushed into this repository.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kishanbm19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanbm19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -83,6 +84,7 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kishanbm19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanbm19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -91,6 +93,7 @@ Submitted codes are automatically pushed into this repository.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kishanbm19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanbm19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -131,6 +134,7 @@ Submitted codes are automatically pushed into this repository.
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kishanbm19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kishanbm19/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Greedy
 |  |
@@ -141,6 +145,7 @@ Submitted codes are automatically pushed into this repository.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kishanbm19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanbm19/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Prefix Sum
