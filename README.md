@@ -10,6 +10,7 @@ Submitted codes are automatically pushed into this repository.
 | [0046-permutations](https://github.com/kishanbm19/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0414-third-maximum-number) |
@@ -169,5 +170,6 @@ Submitted codes are automatically pushed into this repository.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/kishanbm19/leetcode_solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
