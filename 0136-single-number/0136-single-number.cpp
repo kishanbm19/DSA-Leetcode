@@ -2,14 +2,10 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int v=0;
-        map<int,int>mpp;
-        for(auto it:nums){
-            mpp[it]++;
+        for(int i=0;i<nums.size();i++){
+            v^=nums[i];
         }
-        for(auto it:nums){
-            if(mpp[it]==1)return it;
-        }
-        return -1;
+        return v;
         
     }
 };
