@@ -75,6 +75,7 @@ Submitted codes are automatically pushed into this repository.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -87,6 +88,7 @@ Submitted codes are automatically pushed into this repository.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kishanbm19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -98,6 +100,7 @@ Submitted codes are automatically pushed into this repository.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -154,6 +157,7 @@ Submitted codes are automatically pushed into this repository.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
