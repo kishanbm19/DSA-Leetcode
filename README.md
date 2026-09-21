@@ -140,6 +140,7 @@ Submitted codes are automatically pushed into this repository.
 | [0013-roman-to-integer](https://github.com/kishanbm19/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3340-check-balanced-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
