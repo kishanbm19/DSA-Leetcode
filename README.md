@@ -23,6 +23,7 @@ Submitted codes are automatically pushed into this repository.
 | [1089-duplicate-zeros](https://github.com/kishanbm19/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kishanbm19/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanbm19/DSA-Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanbm19/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -157,6 +158,7 @@ Submitted codes are automatically pushed into this repository.
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3340-check-balanced-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -209,6 +211,7 @@ Submitted codes are automatically pushed into this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/kishanbm19/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
