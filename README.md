@@ -24,6 +24,7 @@ Submitted codes are automatically pushed into this repository.
 | [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1089-duplicate-zeros](https://github.com/kishanbm19/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -48,6 +49,7 @@ Submitted codes are automatically pushed into this repository.
 | [0645-set-mismatch](https://github.com/kishanbm19/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Submitted codes are automatically pushed into this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
