@@ -10,6 +10,7 @@ Submitted codes are automatically pushed into this repository.
 | [0046-permutations](https://github.com/kishanbm19/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0119-pascals-triangle-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -270,6 +271,7 @@ Submitted codes are automatically pushed into this repository.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
