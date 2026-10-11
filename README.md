@@ -33,6 +33,7 @@ Submitted codes are automatically pushed into this repository.
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanbm19/DSA-Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3708-longest-fibonacci-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanbm19/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
