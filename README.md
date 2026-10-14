@@ -292,4 +292,8 @@ Submitted codes are automatically pushed into this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0619-biggest-single-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 <!---LeetCode Topics End-->
