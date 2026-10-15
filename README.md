@@ -296,5 +296,6 @@ Submitted codes are automatically pushed into this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1148-article-views-i/) | Easy |
 <!---LeetCode Topics End-->
