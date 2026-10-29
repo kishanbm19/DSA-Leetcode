@@ -12,6 +12,7 @@ Submitted codes are automatically pushed into this repository.
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0119-pascals-triangle-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -279,6 +280,7 @@ Submitted codes are automatically pushed into this repository.
 | [0070-climbing-stairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0198-house-robber](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
