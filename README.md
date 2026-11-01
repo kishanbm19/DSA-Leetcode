@@ -36,6 +36,7 @@ Submitted codes are automatically pushed into this repository.
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kishanbm19/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
@@ -59,6 +60,7 @@ Submitted codes are automatically pushed into this repository.
 | [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Submitted codes are automatically pushed into this repository.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kishanbm19/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +107,7 @@ Submitted codes are automatically pushed into this repository.
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/kishanbm19/leetcode_solutions/tree/master/1089-duplicate-zeros) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
