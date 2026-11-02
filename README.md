@@ -10,6 +10,7 @@ Submitted codes are automatically pushed into this repository.
 | [0046-permutations](https://github.com/kishanbm19/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -202,6 +203,7 @@ Submitted codes are automatically pushed into this repository.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
 ## String
@@ -298,6 +300,7 @@ Submitted codes are automatically pushed into this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
