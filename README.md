@@ -233,6 +233,7 @@ Submitted codes are automatically pushed into this repository.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/kishanbm19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kishanbm19/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0062-unique-paths/) | Medium |
