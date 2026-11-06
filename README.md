@@ -38,6 +38,7 @@ Submitted codes are automatically pushed into this repository.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -212,6 +213,7 @@ Submitted codes are automatically pushed into this repository.
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
 ## String
 | Problem Name | Difficulty |
