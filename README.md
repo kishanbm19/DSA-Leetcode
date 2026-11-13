@@ -47,6 +47,7 @@ Submitted codes are automatically pushed into this repository.
 | [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanbm19/DSA-Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3708-longest-fibonacci-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
