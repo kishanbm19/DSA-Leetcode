@@ -253,6 +253,7 @@ Submitted codes are automatically pushed into this repository.
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanbm19/DSA-Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanbm19/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -270,6 +271,7 @@ Submitted codes are automatically pushed into this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
