@@ -48,6 +48,7 @@ Submitted codes are automatically pushed into this repository.
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanbm19/DSA-Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3708-longest-fibonacci-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -237,6 +238,7 @@ Submitted codes are automatically pushed into this repository.
 | [0643-maximum-average-subarray-i](https://github.com/kishanbm19/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +297,7 @@ Submitted codes are automatically pushed into this repository.
 | [1480-running-sum-of-1d-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
