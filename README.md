@@ -4,8 +4,8 @@ Submitted codes are automatically pushed into this repository.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/kishanbm19/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0047-permutations-ii) |
@@ -57,8 +57,8 @@ Submitted codes are automatically pushed into this repository.
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanbm19/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishanbm19/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kishanbm19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kishanbm19/leetcode_solutions/tree/master/0013-roman-to-integer) |
@@ -75,12 +75,12 @@ Submitted codes are automatically pushed into this repository.
 | [1679-max-number-of-k-sum-pairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -101,25 +101,25 @@ Submitted codes are automatically pushed into this repository.
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kishanbm19/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishanbm19/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -130,15 +130,15 @@ Submitted codes are automatically pushed into this repository.
 | [1679-max-number-of-k-sum-pairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -162,8 +162,8 @@ Submitted codes are automatically pushed into this repository.
 | [0701-insert-into-a-binary-search-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -183,8 +183,8 @@ Submitted codes are automatically pushed into this repository.
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -208,22 +208,22 @@ Submitted codes are automatically pushed into this repository.
 | [0701-insert-into-a-binary-search-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0063-unique-paths-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3033-modify-the-matrix](https://github.com/kishanbm19/leetcode_solutions/tree/master/3033-modify-the-matrix) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishanbm19/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kishanbm19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kishanbm19/leetcode_solutions/tree/master/0013-roman-to-integer) |
@@ -235,8 +235,8 @@ Submitted codes are automatically pushed into this repository.
 | [3340-check-balanced-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishanbm19/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kishanbm19/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -244,8 +244,8 @@ Submitted codes are automatically pushed into this repository.
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0009-palindrome-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/kishanbm19/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kishanbm19/leetcode_solutions/tree/master/0013-roman-to-integer) |
@@ -260,27 +260,27 @@ Submitted codes are automatically pushed into this repository.
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanbm19/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0046-permutations](https://github.com/kishanbm19/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0047-permutations-ii) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kishanbm19/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kishanbm19/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanbm19/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -296,8 +296,8 @@ Submitted codes are automatically pushed into this repository.
 | [0637-average-of-levels-in-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -308,22 +308,22 @@ Submitted codes are automatically pushed into this repository.
 | [3364-minimum-positive-sum-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/kishanbm19/leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## DP on Trees
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/kishanbm19/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -335,51 +335,51 @@ Submitted codes are automatically pushed into this repository.
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0303-range-sum-query-immutable](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0619-biggest-single-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1148-article-views-i/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0062-unique-paths/) | Medium |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
