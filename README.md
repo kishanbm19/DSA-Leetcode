@@ -40,6 +40,7 @@ Submitted codes are automatically pushed into this repository.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -254,6 +255,7 @@ Submitted codes are automatically pushed into this repository.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanbm19/DSA-Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -303,6 +305,7 @@ Submitted codes are automatically pushed into this repository.
 | [0560-subarray-sum-equals-k](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kishanbm19/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -334,6 +337,7 @@ Submitted codes are automatically pushed into this repository.
 | [0213-house-robber-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
