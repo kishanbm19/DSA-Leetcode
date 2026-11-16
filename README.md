@@ -46,6 +46,7 @@ Submitted codes are automatically pushed into this repository.
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kishanbm19/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -257,6 +258,7 @@ Submitted codes are automatically pushed into this repository.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanbm19/DSA-Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -319,6 +321,7 @@ Submitted codes are automatically pushed into this repository.
 ## Simulation
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## DP on Trees
@@ -384,8 +387,13 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
