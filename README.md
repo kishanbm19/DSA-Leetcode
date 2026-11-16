@@ -75,6 +75,7 @@ Submitted codes are automatically pushed into this repository.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2325-decode-the-message](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2325-decode-the-message) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Divide and Conquer
 |  |
@@ -233,6 +234,7 @@ Submitted codes are automatically pushed into this repository.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2325-decode-the-message](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2325-decode-the-message) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3340-check-balanced-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3340-check-balanced-string) |
