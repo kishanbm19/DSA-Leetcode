@@ -7,6 +7,7 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0045-jump-game-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kishanbm19/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -282,6 +283,7 @@ Submitted codes are automatically pushed into this repository.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -336,6 +338,7 @@ Submitted codes are automatically pushed into this repository.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
