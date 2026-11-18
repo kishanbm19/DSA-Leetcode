@@ -33,6 +33,7 @@ Submitted codes are automatically pushed into this repository.
 | [0645-set-mismatch](https://github.com/kishanbm19/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/kishanbm19/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -73,6 +74,7 @@ Submitted codes are automatically pushed into this repository.
 | [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/kishanbm19/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -96,6 +98,7 @@ Submitted codes are automatically pushed into this repository.
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/kishanbm19/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -287,6 +290,7 @@ Submitted codes are automatically pushed into this repository.
 | [0045-jump-game-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
