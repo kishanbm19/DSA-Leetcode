@@ -239,6 +239,7 @@ Submitted codes are automatically pushed into this repository.
 | [2325-decode-the-message](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2325-decode-the-message) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3340-check-balanced-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
