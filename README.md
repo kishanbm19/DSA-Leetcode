@@ -17,6 +17,7 @@ Submitted codes are automatically pushed into this repository.
 | [0119-pascals-triangle-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kishanbm19/leetcode_solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -291,6 +292,7 @@ Submitted codes are automatically pushed into this repository.
 | [0045-jump-game-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
