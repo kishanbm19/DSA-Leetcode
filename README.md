@@ -240,6 +240,7 @@ Submitted codes are automatically pushed into this repository.
 | [0049-group-anagrams](https://github.com/kishanbm19/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2325-decode-the-message) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
