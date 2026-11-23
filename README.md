@@ -42,6 +42,7 @@ Submitted codes are automatically pushed into this repository.
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1089-duplicate-zeros](https://github.com/kishanbm19/leetcode_solutions/tree/master/1089-duplicate-zeros) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -268,6 +269,7 @@ Submitted codes are automatically pushed into this repository.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -323,6 +325,7 @@ Submitted codes are automatically pushed into this repository.
 | [0303-range-sum-query-immutable](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kishanbm19/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -380,6 +383,7 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Database
 |  |
 | ------- |
@@ -414,4 +418,8 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
