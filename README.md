@@ -37,6 +37,7 @@ Submitted codes are automatically pushed into this repository.
 | [0746-min-cost-climbing-stairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0881-boats-to-save-people](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -102,6 +103,7 @@ Submitted codes are automatically pushed into this repository.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/kishanbm19/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -134,6 +136,7 @@ Submitted codes are automatically pushed into this repository.
 | [0016-3sum-closest](https://github.com/kishanbm19/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/kishanbm19/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0881-boats-to-save-people](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/kishanbm19/leetcode_solutions/tree/master/1089-duplicate-zeros) |
@@ -299,6 +302,7 @@ Submitted codes are automatically pushed into this repository.
 | [0455-assign-cookies](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0881-boats-to-save-people](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Breadth-First Search
@@ -422,4 +426,8 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
