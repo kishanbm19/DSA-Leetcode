@@ -41,6 +41,7 @@ Submitted codes are automatically pushed into this repository.
 | [0904-fruit-into-baskets](https://github.com/kishanbm19/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1089-duplicate-zeros](https://github.com/kishanbm19/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -106,6 +107,7 @@ Submitted codes are automatically pushed into this repository.
 | [0881-boats-to-save-people](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -139,6 +141,7 @@ Submitted codes are automatically pushed into this repository.
 | [0881-boats-to-save-people](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kishanbm19/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kishanbm19/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/kishanbm19/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -303,6 +306,7 @@ Submitted codes are automatically pushed into this repository.
 | [0846-hand-of-straights](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/kishanbm19/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Breadth-First Search
