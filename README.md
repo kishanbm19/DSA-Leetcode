@@ -279,6 +279,7 @@ Submitted codes are automatically pushed into this repository.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3360-stone-removal-game](https://github.com/kishanbm19/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanbm19/DSA-Leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kishanbm19/DSA-Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -350,6 +351,7 @@ Submitted codes are automatically pushed into this repository.
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/kishanbm19/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishanbm19/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## DP on Trees
 |  |
