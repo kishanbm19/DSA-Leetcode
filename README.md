@@ -52,6 +52,7 @@ Submitted codes are automatically pushed into this repository.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kishanbm19/DSA-Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanbm19/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kishanbm19/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -279,6 +280,7 @@ Submitted codes are automatically pushed into this repository.
 | [0509-fibonacci-number](https://github.com/kishanbm19/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/kishanbm19/DSA-Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3360-stone-removal-game](https://github.com/kishanbm19/DSA-Leetcode/tree/master/3360-stone-removal-game) |
@@ -430,6 +432,7 @@ Submitted codes are automatically pushed into this repository.
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Data Stream
 |  |
@@ -447,4 +450,12 @@ Submitted codes are automatically pushed into this repository.
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1029-two-city-scheduling) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanbm19/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
